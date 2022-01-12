@@ -24,5 +24,13 @@
 .Votes{
     width: 25%;
     height: 25%;
+    display: inline-block;
     padding-left: 15px;
 }
+
+
+@media only screen and (min-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }

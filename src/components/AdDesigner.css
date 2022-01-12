@@ -17,6 +17,7 @@
     width: 200px;
 }
 
+
 .AdDesigner p{
     font-family: sans-serif;
     font-weight: bold;
@@ -34,10 +35,12 @@
 }
 
 .box{
-    padding-left: 25px;
+    padding-left: 0px;
 }
 
 .buttonBox{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    
 }
