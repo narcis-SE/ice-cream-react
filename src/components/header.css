@@ -1,0 +1,17 @@
+.Header{
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.Header h1{
+    color: #2047e3;
+    font-family: 'Caveat', cursive;
+}
+
+.child{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+

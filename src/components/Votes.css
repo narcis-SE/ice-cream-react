@@ -1,0 +1,28 @@
+.chocolate{
+    background-color: #4f2c2c;
+    height: 10px;
+    
+}
+
+.vanilla{
+    background-color: #cbc0ac;
+    height: 10px;
+    
+}
+
+
+.straw{
+    background-color: #de8c91;
+    height: 10px;
+    
+}
+
+.Votes h2{
+    font-family: 'Caveat', cursive;
+}
+
+.Votes{
+    width: 25%;
+    height: 25%;
+    padding-left: 15px;
+}

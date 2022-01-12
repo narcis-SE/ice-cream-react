@@ -1,0 +1,16 @@
+.block h2{
+    font-family: 'Caveat', cursive;
+}
+
+.storing{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 10px 0 10px
+}
+
+.block{
+    width: 150px;
+    border: 2px solid black;
+    text-align: center;
+}

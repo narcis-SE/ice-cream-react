@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+    border: 2px solid black;
+}
+
+
+
+.light{
+    background-color: white;
+    color: black;
+    width: 200px;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+    width: 200px;
+}
+
+.AdDesigner p{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.AdDesigner button{
+    background-color: #0e3c7e;
+    color: white;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+
+.AdDesigner h1{
+    font-family: 'Caveat', cursive;
+}
+
+.box{
+    padding-left: 25px;
+}
+
+.buttonBox{
+    display: flex;
+    flex-direction: row;
+}
